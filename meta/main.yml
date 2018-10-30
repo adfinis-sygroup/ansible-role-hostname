@@ -3,6 +3,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: 'hostname'
   author: 'Adfinis SyGroup AG'
   description: 'Set system hostname and fqdn'
   company: 'Adfinis SyGroup AG'
